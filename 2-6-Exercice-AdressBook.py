@@ -35,6 +35,7 @@ while True:
     elif command_input == 'a':
         name_input = input('Please insert the name: ').strip()
         address_book.append({'first':name_input})
+
  #   elif command_input == 'l':
 
   #  else command_input == 'f':
@@ -43,5 +44,8 @@ while True:
 
 
 
+'''
+#SOLUTION
 
+'''
 
